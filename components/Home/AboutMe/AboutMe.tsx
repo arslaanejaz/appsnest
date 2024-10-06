@@ -29,7 +29,7 @@ export default function AboutMe(props) {
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm ">
             <div className="font-Header text-justify">
               <span className="text-gray-400 ">
-                Hello! My name is Abdellatif, and I&apos;m a passionate{" "}
+                Hello! My name is Azeem, and I&apos;m a passionate{" "}
                 <span className="text-AAsecondary">software engineer</span> with strong problem-solving skills. My
                 journey in computer science started at 11 years old when I explored Ethical Hacking using BackTrack OS,
                 which started my interest in programming. Over the years, I continued to teach myself coding, which led

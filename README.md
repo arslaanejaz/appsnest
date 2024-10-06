@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://user-images.githubusercontent.com/62770500/199333052-3cd38b31-7e77-4883-a1ff-a037afcc0492.png" width="100" />
 </div>
 <h1 align="center">
-  anaflous.com - v1
+  Sheeraz.com - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://Sheeraz.com" target="_blank">Sheeraz.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [anaflous.com](https://anaflous.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Sheeraz.com](https://Sheeraz.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
@@ -200,7 +200,7 @@ the following endpoint will return a json object contains "quote" and "author", 
 
 MIT License
 
-Copyright (c) [2022] [Abdellatif Anaflous]
+Copyright (c) [2022] [Azeem Sheeraz]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -226,8 +226,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/abdellatif-anaflous/)
-- Website - [Abdellatif Anaflous](https://anaflous.com)
+- Linkedin - [@Azeem-Sheeraz](https://www.linkedin.com/in/Azeem-Sheeraz/)
+- Website - [Azeem Sheeraz](https://Sheeraz.com)
 
 [Back To The Top](#description) :
 

@@ -34,11 +34,11 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
             {/* Github Icon */}
             <IconClickableWithAnimation Icon={GithubIcon} href={"https://github.com/hktitof"} />
             {/* Linkedin icon */}
-            <IconClickableWithAnimation Icon={LinkedinIcon} href={"https://www.linkedin.com/in/abdellatif-anaflous/"} />
+            <IconClickableWithAnimation Icon={LinkedinIcon} href={"https://www.linkedin.com/in/Azeem-Sheeraz/"} />
             {/* Instagram Icon */}
             {/* <IconClickableWithAnimation Icon={InstagramIcon} href={"https://www.instagram.com/xredme/"} /> */}
             {/* Youtube Icon */}
-            <IconClickableWithAnimation Icon={YoutubeIcon} href={"https://www.youtube.com/@abdellatif_anaflous"} />
+            <IconClickableWithAnimation Icon={YoutubeIcon} href={"https://www.youtube.com/@Azeem_Sheeraz"} />
           </div>
           <div className="h-28 w-0.5 bg-gray-400"></div>
         </div>
@@ -62,9 +62,9 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
             }}
             className=""
           >
-            <a href="mailto:abdellatif@anaflous.com" target={"_blank"} rel="noreferrer">
+            <a href="mailto:Azeem@Sheeraz.com" target={"_blank"} rel="noreferrer">
               <span className=" font-Header tracking-wider text-gray-400 hover:text-AAsecondary hover:cursor-pointer">
-                abdellatif<span className="text-AAsecondary">@</span>anaflous<span className="text-AAsecondary">.</span>com
+                Azeem<span className="text-AAsecondary">@</span>Sheeraz<span className="text-AAsecondary">.</span>com
               </span>
             </a>
           </motion.div>
